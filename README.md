@@ -18,5 +18,4 @@
 
 <h2> Connect with me:</h2>
 
-  * [Twitter](https://x.com/quinn23494) (if you have a professional Twitter profile)
   * [LinkedIn](https://linkedin.com/in/quinn-peterson-70b7a92aa/)
